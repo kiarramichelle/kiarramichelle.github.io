@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kiarra Michelle Garcia",
+    "email": "kiarramichelle.garcia@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://kiarramichelle.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Huntington Beach",
       "countryCode": "US",
       "region": ""
     },
@@ -16,7 +16,7 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=PJEhFucAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
@@ -33,20 +33,20 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of California, Irvine",
+      "area": "B.S. in Cognitive Sciences",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "California State University, Long Beach",
+      "area": "Transferred to University of California, Irvine",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2021",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
@@ -66,11 +66,11 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "What Makes Mental Images Vivid? Sharpness as the Key Visual Dimension",
+      "publisher": "The Association for Research in Vision and Ophthalmology",
+      "releaseDate": "2025-07-15",
+      "website": "https://jov.arvojournals.org/article.aspx?articleid=2809336",
+      "summary": "Visual mental images vary in their subjective vividness. Conventionally, this vividness has been measured on a unidimensional numerical scale. But how different visual qualities influence our experience of vividness is poorly understood. Here, we present results from a novel method for reconstructing visual properties of mental images as they vary across different subjective vividness ratings"
     },
     {
       "name": "Paper Title Number 2",
