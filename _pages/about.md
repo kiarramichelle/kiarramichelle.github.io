@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kiarra Michelle but most people call me Kiarra. 
+My name is Kiarra and...
 
 A data-driven personal website
 ======
