@@ -4,7 +4,7 @@
     "email": "kiarramichelle.garcia@gmail.com",
     "phone": "",
     "website": "https://kiarramichelle.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
@@ -21,12 +21,12 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "kiarramichelle",
+        "url": "https://github.com/kiarramichelle"
       }
     ]
   },
@@ -49,15 +49,6 @@
       "endDate": "2023",
       "gpa": null,
       "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
     }
   ],
   "skills": [],
@@ -71,56 +62,28 @@
       "releaseDate": "2025-07-15",
       "website": "https://jov.arvojournals.org/article.aspx?articleid=2809336",
       "summary": "Visual mental images vary in their subjective vividness. Conventionally, this vividness has been measured on a unidimensional numerical scale. But how different visual qualities influence our experience of vividness is poorly understood. Here, we present results from a novel method for reconstructing visual properties of mental images as they vary across different subjective vividness ratings"
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Reproducible and open-source fMRI decoding pipelines for arbitrating theories of consciousness - Ali Ekhlasi, Emil Olsson, Michaela Klimova, Xueyi Huang, Angela Shen, Kiarra Garcia, Nadine Dijkstra, Jorge Morales, Megan A. K. Peters",
+      "event": "Society for Neuroscience (SfN) Conference",
+      "date": "2025-11-15",
+      "location": "San Diego, CA, USA",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "The Components of Vividness in Perception and Mental Imagery",
+      "event": "UC Irvine UROP Symposium 2025",
+      "date": "2025-05-12",
+      "location": "Irvine, CA, USA",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Improving Physical Activity Levels for Children with Autism Spectrum Disorder (ASD)",
+      "event": "CSU Long Beach UROP Symposium",
+      "date": "2023-05-06",
+      "location": "Long Beach, CA, USA",
       "description": ""
     }
   ],
