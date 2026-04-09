@@ -6,7 +6,7 @@ export const siteConfig = {
   social: {
     email: "kiarramichelle.garcia@gmail.com",
     linkedin: "https://www.linkedin.com/in/kiarra-garcia-186677212/",
-    twitter: "https://scholar.google.com/citations?hl=en&user=--DhUI8AAAAJ&view_op=list_works&gmla=AEk_c1s1KnjWTMcHusQ84F1BrKpm7iMpc1fLVKYw9SqUnmAYfLn4fJ0r-km46q7QonI_UNmdtoI2Cw83eaQoFy31",
+    googleScholar: "https://scholar.google.com/citations?hl=en&user=--DhUI8AAAAJ&view_op=list_works&gmla=AEk_c1s1KnjWTMcHusQ84F1BrKpm7iMpc1fLVKYw9SqUnmAYfLn4fJ0r-km46q7QonI_UNmdtoI2Cw83eaQoFy31",
     github: "https://github.com/kiarramg",
   },
   aboutMe:
