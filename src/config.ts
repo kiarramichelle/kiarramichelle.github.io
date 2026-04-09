@@ -10,60 +10,26 @@ export const siteConfig = {
     github: "https://github.com/kiarramg",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I started as a Health Science major at CSULB with a focus on kinesiology and explored ways to improve phsycial activity in participants with autism spectrum disorder (ASD) using eye-tracking technology with Dr. Bittner. I loved researching the brain and decided to pivot by transferring to UCI to study Cognitive Science. Thanks to the Chancellor's Excellence Scholarsip, I could dedicate my entire time at UCI working alongside Dr. Peters and Angela Shen on my senior UROP thesis exploring imagery versus perception. I'm really excited to keep building on that foundation and dig deeper into Cognitive Science and the world of computation.",
+  skills: ["Javascript", "Python", "Computational Modeling", "Psychophysics", "Prolific", "Docker"],
   projects: [
     {
       name: "What Makes Mental Images Vivid? Sharpness as the Key Visual Dimension",
       description:
-        "Have you ever wondered how our brain differentiates between imagination and reality? Some components of vividness in *perception* include blur, saturation, and opacity. In this project I explored if these are also components of vividness in mental imagery.",
+        "Have you ever wondered how our brain differentiates between imagination and reality? Some components of vividness in *perception* include blur, saturation, and opacity. In this project, I explored if these are also components of vividness in mental imagery.",
       link: "https://jov.arvojournals.org/solr/searchresults.aspx?author=Kiarra+Michelle+I.+Garcia",
       skills: ["JavaScript", "Prolific", "Computational Modeling"],
-    },
-    {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Reflexion Lab",
+      title: "Research Assistant",
+      dateRange: "June 2024 - June 2025",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
-      ],
-    },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Led weekly journal club meetings evaluating study design, and computational models in peer-reviewed literature",
+        "Screened and consented participants for a 3T fMRI decoded neural feedback experiment to ensure no contraindications",
+        "Assisted with neuroimaging data collection and adhering to scanner safety and study protocols",
       ],
     },
   ],
