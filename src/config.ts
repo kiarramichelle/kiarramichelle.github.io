@@ -14,11 +14,11 @@ export const siteConfig = {
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "What Makes Mental Images Vivid? Sharpness as the Key Visual Dimension",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Have you ever wondered how our brain differentiates between imagination and reality? Some components of vividness in *perception* include blur, saturation, and opacity. In this project I explored if these are also components of vividness in mental imagery.",
+      link: "https://jov.arvojournals.org/solr/searchresults.aspx?author=Kiarra+Michelle+I.+Garcia",
+      skills: ["JavaScript", "Prolific", "Computational Modeling"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
