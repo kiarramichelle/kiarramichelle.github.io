@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/kiarramg",
   },
   aboutMe:
-    "I started as a Health Science major at CSULB with a focus on kinesiology and explored ways to improve phsycial activity in participants with autism spectrum disorder (ASD) using eye-tracking technology with Dr. Bittner. I loved researching the brain and decided to pivot by transferring to UCI to study Cognitive Science. Thanks to the Chancellor's Excellence Scholarsip, I could dedicate my entire time at UCI working alongside Dr. Peters and Angela Shen on my senior UROP thesis exploring imagery versus perception. I'm really excited to keep building on that foundation and dig deeper into Cognitive Science and the world of computation.",
+    "I started out as a Health Science major at CSULB studying kinesiology, where I got to research ways to improve physical activity for people with ASD using eye-tracking tech. That curiosity about the brain led me to transfer to UCI to study Cognitive Science. With the help of the Chancellor's Excellence Scholarship, I spent my time there working with Dr. Peters and Angela Shen on my senior UROP thesis exploring imagery vs. perception. Now I'm excited to keep building on that and dive deeper into Cognitive Science and computation!",
   skills: ["Javascript", "Python", "Computational Modeling", "Psychophysics", "Prolific", "Docker"],
   projects: [
     {
