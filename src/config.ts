@@ -16,7 +16,7 @@ export const siteConfig = {
     {
       name: "What Makes Mental Images Vivid? Sharpness as the Key Visual Dimension",
       description:
-        "Have you ever wondered how our brain differentiates between imagination and reality? Some components of vividness in *perception* include blur, saturation, and opacity. In this project, I explored if these are also components of vividness in mental imagery.",
+        "Have you ever wondered how our brain differentiates between imagination and reality? Some components of vividness in perception include blur, saturation, and opacity. In this project, I explored if these are also components of vividness in mental imagery.",
       link: "https://jov.arvojournals.org/solr/searchresults.aspx?author=Kiarra+Michelle+I.+Garcia",
       skills: ["JavaScript", "Prolific", "Computational Modeling"],
     },
